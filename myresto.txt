@@ -1,0 +1,621 @@
+SREE RESTAURANT
+================
+
+FICTIONAL PROJECT KNOWLEDGE BASE
+
+RESTAURANT PROFILE
+------------------
+Name: Sree Restaurant
+Type: Casual Family Restaurant
+Cuisines: South Indian, North Indian, Indo-Chinese
+Food Types: Vegetarian, Non-Vegetarian
+Services: Dine-in, Takeaway, Home Delivery, Table Reservations, Group Dining, Small Celebrations, Selected Catering
+
+LOCATION
+--------
+Address: Plot 18, Lakshmi Nagar Main Road, Near Central City Mall, Madhapur, Hyderabad, Telangana, India - 500081
+Landmark: Near Central City Mall
+Area: Madhapur
+City: Hyderabad
+State: Telangana
+Country: India
+Postal Code: 500081
+
+CONTACT
+-------
+Phone: +91 98765 43210
+Alternative Phone: +91 91234 56789
+Email: hello@sreerestaurant.example
+Reservations Email: reservations@sreerestaurant.example
+Website: https://sreerestaurant.example
+
+OPENING HOURS
+-------------
+Monday: 10:00 AM - 10:00 PM
+Tuesday: 10:00 AM - 10:00 PM
+Wednesday: 10:00 AM - 10:00 PM
+Thursday: 10:00 AM - 10:00 PM
+Friday: 10:00 AM - 10:30 PM
+Saturday: 10:00 AM - 10:30 PM
+Sunday: 10:00 AM - 10:00 PM
+Kitchen closes 30 minutes before restaurant closing time.
+
+MEAL HOURS
+----------
+Breakfast: 10:00 AM - 12:00 PM
+Lunch: 12:00 PM - 3:30 PM
+Evening Snacks: 4:00 PM - 7:00 PM
+Dinner: 7:00 PM - 10:00 PM
+Friday and Saturday dinner service may continue until 10:30 PM.
+
+SOUTH INDIAN MENU
+-----------------
+
+ITEM
+Name: Idli
+Category: South Indian
+Type: Vegetarian
+Price: Rs. 80
+Description: Soft steamed rice-and-lentil cakes served with sambar and coconut chutney.
+
+ITEM
+Name: Masala Dosa
+Category: South Indian
+Type: Vegetarian
+Price: Rs. 140
+Description: Crispy dosa filled with spiced potato masala and served with sambar and coconut chutney.
+
+ITEM
+Name: Plain Dosa
+Category: South Indian
+Type: Vegetarian
+Price: Rs. 110
+Description: Thin and crispy dosa served with sambar and coconut chutney.
+
+ITEM
+Name: Mysore Masala Dosa
+Category: South Indian
+Type: Vegetarian
+Price: Rs. 160
+Description: Crispy dosa prepared with spicy red chutney and filled with potato masala.
+
+ITEM
+Name: Onion Dosa
+Category: South Indian
+Type: Vegetarian
+Price: Rs. 130
+Description: Crispy dosa topped with chopped onions and served with sambar and chutney.
+
+ITEM
+Name: Pesarattu
+Category: South Indian
+Type: Vegetarian
+Price: Rs. 130
+Description: Green gram dosa served with ginger chutney.
+
+ITEM
+Name: Medu Vada
+Category: South Indian
+Type: Vegetarian
+Price: Rs. 100
+Description: Crispy lentil fritters served with sambar and chutney.
+
+ITEM
+Name: Vegetable Uttapam
+Category: South Indian
+Type: Vegetarian
+Price: Rs. 140
+Description: Thick South Indian pancake topped with onion, tomato, capsicum, and coriander.
+
+ITEM
+Name: Sambar
+Category: South Indian
+Type: Vegetarian
+Price: Rs. 70
+Description: Traditional lentil and vegetable preparation served as an accompaniment.
+
+ITEM
+Name: Coconut Chutney
+Category: South Indian
+Type: Vegetarian
+Price: Rs. 50
+Description: Fresh coconut-based chutney.
+
+ITEM
+Name: Tomato Chutney
+Category: South Indian
+Type: Vegetarian
+Price: Rs. 50
+Description: Tomato-based chutney with a mildly spicy flavor.
+
+NORTH INDIAN MENU
+-----------------
+
+ITEM
+Name: Paneer Butter Masala
+Category: North Indian
+Type: Vegetarian
+Price: Rs. 220
+Description: Paneer cooked in a creamy tomato-based gravy with butter and aromatic spices.
+
+ITEM
+Name: Kadai Paneer
+Category: North Indian
+Type: Vegetarian
+Price: Rs. 230
+Description: Paneer cooked with capsicum, onion, tomato, and kadai spices.
+
+ITEM
+Name: Palak Paneer
+Category: North Indian
+Type: Vegetarian
+Price: Rs. 220
+Description: Paneer cooked in a spinach-based gravy with Indian spices.
+
+ITEM
+Name: Dal Tadka
+Category: North Indian
+Type: Vegetarian
+Price: Rs. 160
+Description: Yellow lentils tempered with spices, garlic, cumin, and herbs.
+
+ITEM
+Name: Dal Makhani
+Category: North Indian
+Type: Vegetarian
+Price: Rs. 190
+Description: Slow-cooked black lentils prepared with butter and a rich creamy texture.
+
+ITEM
+Name: Chana Masala
+Category: North Indian
+Type: Vegetarian
+Price: Rs. 170
+Description: Chickpeas cooked in an onion-tomato masala.
+
+ITEM
+Name: Aloo Gobi
+Category: North Indian
+Type: Vegetarian
+Price: Rs. 170
+Description: Potatoes and cauliflower cooked with Indian spices.
+
+ITEM
+Name: Veg Pulao
+Category: North Indian
+Type: Vegetarian
+Price: Rs. 180
+Description: Basmati rice cooked with mixed vegetables and mild aromatic spices.
+
+ITEM
+Name: Jeera Rice
+Category: North Indian
+Type: Vegetarian
+Price: Rs. 150
+Description: Basmati rice flavored with cumin seeds.
+
+ITEM
+Name: Butter Naan
+Category: North Indian
+Type: Vegetarian
+Price: Rs. 60
+Description: Soft Indian flatbread brushed with butter.
+
+ITEM
+Name: Plain Naan
+Category: North Indian
+Type: Vegetarian
+Price: Rs. 50
+Description: Soft Indian flatbread cooked in a tandoor.
+
+ITEM
+Name: Garlic Naan
+Category: North Indian
+Type: Vegetarian
+Price: Rs. 80
+Description: Naan topped with garlic and coriander.
+
+ITEM
+Name: Tandoori Roti
+Category: North Indian
+Type: Vegetarian
+Price: Rs. 45
+Description: Whole-wheat flatbread cooked in a tandoor.
+
+BIRYANI MENU
+------------
+
+ITEM
+Name: Chicken Biryani
+Category: Biryani
+Type: Non-Vegetarian
+Price: Rs. 280
+Description: Fragrant basmati rice cooked with marinated chicken, herbs, and aromatic biryani spices.
+
+ITEM
+Name: Mutton Biryani
+Category: Biryani
+Type: Non-Vegetarian
+Price: Rs. 340
+Description: Fragrant basmati rice cooked with tender mutton and traditional biryani spices.
+
+ITEM
+Name: Veg Biryani
+Category: Biryani
+Type: Vegetarian
+Price: Rs. 220
+Description: Basmati rice cooked with mixed vegetables, herbs, and biryani spices.
+
+ITEM
+Name: Egg Biryani
+Category: Biryani
+Type: Non-Vegetarian
+Price: Rs. 230
+Description: Basmati rice prepared with boiled eggs and aromatic spices.
+
+NON-VEGETARIAN MENU
+-------------------
+
+ITEM
+Name: Chicken Tikka
+Category: Non-Vegetarian
+Type: Non-Vegetarian
+Price: Rs. 260
+Description: Marinated chicken pieces cooked with tandoori-style spices.
+
+ITEM
+Name: Chicken Curry
+Category: Non-Vegetarian
+Type: Non-Vegetarian
+Price: Rs. 250
+Description: Chicken cooked in a traditional onion-tomato gravy with Indian spices.
+
+ITEM
+Name: Mutton Curry
+Category: Non-Vegetarian
+Type: Non-Vegetarian
+Price: Rs. 320
+Description: Mutton cooked slowly in a rich spiced gravy.
+
+ITEM
+Name: Egg Curry
+Category: Non-Vegetarian
+Type: Non-Vegetarian
+Price: Rs. 180
+Description: Boiled eggs cooked in an onion-tomato gravy.
+
+ITEM
+Name: Chicken 65
+Category: Non-Vegetarian
+Type: Non-Vegetarian
+Price: Rs. 240
+Description: Crispy fried chicken pieces marinated with spices.
+
+INDO-CHINESE MENU
+-----------------
+
+ITEM
+Name: Vegetable Fried Rice
+Category: Indo-Chinese
+Type: Vegetarian
+Price: Rs. 180
+Description: Rice stir-fried with mixed vegetables and Indo-Chinese seasonings.
+
+ITEM
+Name: Chicken Fried Rice
+Category: Indo-Chinese
+Type: Non-Vegetarian
+Price: Rs. 220
+Description: Rice stir-fried with chicken, vegetables, and Indo-Chinese seasonings.
+
+ITEM
+Name: Vegetable Noodles
+Category: Indo-Chinese
+Type: Vegetarian
+Price: Rs. 180
+Description: Noodles stir-fried with mixed vegetables and sauces.
+
+ITEM
+Name: Chicken Noodles
+Category: Indo-Chinese
+Type: Non-Vegetarian
+Price: Rs. 220
+Description: Noodles stir-fried with chicken, vegetables, and sauces.
+
+ITEM
+Name: Gobi Manchurian
+Category: Indo-Chinese
+Type: Vegetarian
+Price: Rs. 190
+Description: Crispy cauliflower pieces tossed in a savory Indo-Chinese Manchurian sauce.
+
+ITEM
+Name: Paneer Manchurian
+Category: Indo-Chinese
+Type: Vegetarian
+Price: Rs. 210
+Description: Crispy paneer pieces prepared with Indo-Chinese sauce.
+
+ITEM
+Name: Chicken Manchurian
+Category: Indo-Chinese
+Type: Non-Vegetarian
+Price: Rs. 240
+Description: Chicken pieces prepared with savory Indo-Chinese Manchurian sauce.
+
+ITEM
+Name: Chilli Paneer
+Category: Indo-Chinese
+Type: Vegetarian
+Price: Rs. 210
+Description: Paneer cooked with capsicum, onion, green chilli, and Indo-Chinese sauces.
+
+ITEM
+Name: Chilli Chicken
+Category: Indo-Chinese
+Type: Non-Vegetarian
+Price: Rs. 240
+Description: Chicken pieces cooked with capsicum, onion, green chilli, and Indo-Chinese sauces.
+
+SNACKS AND STARTERS
+-------------------
+
+ITEM
+Name: Samosa
+Category: Snack
+Type: Vegetarian
+Price: Rs. 60
+Description: Crispy pastry filled with spiced potato and peas.
+
+ITEM
+Name: Paneer Pakora
+Category: Starter
+Type: Vegetarian
+Price: Rs. 150
+Description: Paneer pieces coated in spiced gram flour batter and fried.
+
+ITEM
+Name: Onion Pakora
+Category: Snack
+Type: Vegetarian
+Price: Rs. 100
+Description: Sliced onions coated in gram flour batter and fried.
+
+ITEM
+Name: Veg Cutlet
+Category: Snack
+Type: Vegetarian
+Price: Rs. 120
+Description: Mixed vegetables shaped into cutlets and fried.
+
+ITEM
+Name: French Fries
+Category: Snack
+Type: Vegetarian
+Price: Rs. 120
+Description: Crispy fried potato strips.
+
+ITEM
+Name: Chicken Seekh Kebab
+Category: Starter
+Type: Non-Vegetarian
+Price: Rs. 280
+Description: Minced chicken seasoned with spices and cooked in kebab style.
+
+DESSERT MENU
+------------
+
+ITEM
+Name: Gulab Jamun
+Category: Dessert
+Type: Vegetarian
+Price: Rs. 100
+Description: Soft milk-based dumplings served in sweet syrup.
+
+ITEM
+Name: Ras Malai
+Category: Dessert
+Type: Vegetarian
+Price: Rs. 130
+Description: Soft paneer dumplings served in sweetened milk.
+
+ITEM
+Name: Ice Cream
+Category: Dessert
+Type: Vegetarian
+Price: Rs. 100
+Description: Ice cream available in selected flavors.
+
+ITEM
+Name: Fruit Salad
+Category: Dessert
+Type: Vegetarian
+Price: Rs. 120
+Description: Fresh seasonal fruit served as a light dessert.
+
+BEVERAGE MENU
+-------------
+
+ITEM
+Name: Filter Coffee
+Category: Beverage
+Type: Vegetarian
+Price: Rs. 80
+Description: South Indian-style filter coffee prepared with milk.
+
+ITEM
+Name: Masala Tea
+Category: Beverage
+Type: Vegetarian
+Price: Rs. 60
+Description: Indian tea prepared with milk and aromatic spices.
+
+ITEM
+Name: Fresh Lime Soda
+Category: Beverage
+Type: Vegetarian
+Price: Rs. 80
+Description: Refreshing lime-based beverage available in sweet or salted style.
+
+ITEM
+Name: Buttermilk
+Category: Beverage
+Type: Vegetarian
+Price: Rs. 70
+Description: Chilled traditional yogurt-based beverage.
+
+ITEM
+Name: Mango Lassi
+Category: Beverage
+Type: Vegetarian
+Price: Rs. 120
+Description: Mango-flavored yogurt drink.
+
+ITEM
+Name: Sweet Lassi
+Category: Beverage
+Type: Vegetarian
+Price: Rs. 100
+Description: Sweet yogurt-based beverage.
+
+ITEM
+Name: Mineral Water
+Category: Beverage
+Type: Vegetarian
+Price: Rs. 30
+Description: Bottled drinking water.
+
+ITEM
+Name: Soft Drink
+Category: Beverage
+Type: Vegetarian
+Price: Rs. 50
+Description: Selected packaged soft drinks.
+
+DELIVERY
+--------
+Home delivery: Available
+Delivery area: Selected areas within approximately 8 km of the restaurant
+Delivery hours: 11:00 AM - 9:45 PM
+Minimum delivery order: Rs. 250
+Up to 3 km: Free
+3 km to 5 km: Rs. 30
+5 km to 8 km: Rs. 50
+Estimated delivery time: 30 to 60 minutes depending on distance, traffic, weather, order volume, and preparation time.
+
+TAKEAWAY
+--------
+Takeaway: Available
+Normal preparation time: 15 to 30 minutes
+Large orders may require additional preparation time.
+
+RESERVATIONS
+------------
+Table reservations: Available subject to availability
+Reservation phone: +91 98765 43210
+Recommended advance notice: At least 2 hours
+Required details: Name, phone number, date, preferred time, number of guests
+A reservation is confirmed only after restaurant confirmation.
+
+GROUP DINING
+------------
+6 to 10 guests: At least 2 hours advance notice recommended
+11 to 20 guests: At least 1 day advance notice recommended
+More than 20 guests: Contact restaurant in advance
+Large group seating is subject to availability.
+
+CATERING
+--------
+Catering: Selected catering services available
+Suitable for: Birthday parties, family functions, small office events, small gatherings
+Recommended advance notice: At least 2 days
+Catering price depends on number of guests, selected dishes, dietary requirements, delivery distance, and event requirements.
+
+PAYMENT
+-------
+Cash: Accepted
+UPI: Accepted
+Debit Card: Accepted
+Credit Card: Accepted
+
+DIETARY INFORMATION
+-------------------
+Vegetarian options: Available throughout the menu and explicitly marked Vegetarian.
+Vegan information: Some dishes may be adaptable for vegan customers. Strict vegan customers should contact restaurant staff before ordering. A completely vegan preparation environment is not guaranteed.
+Potential allergens: Milk, Dairy, Wheat, Gluten, Peanuts, Tree Nuts, Soy, Eggs
+Allergy instruction: Customers with food allergies must inform restaurant staff before ordering. An allergen-free kitchen is not guaranteed.
+Spice levels: Mild, Medium, Spicy
+Reduced spice: Can be requested where possible.
+
+CELEBRATIONS
+------------
+Family-friendly: Yes
+Children: Welcome
+Children's play area: No dedicated play area
+Birthday celebrations: Small celebrations can be discussed in advance
+Birthday cake: May be brought subject to restaurant approval
+Small decorations: May be permitted with prior approval
+Permanent complimentary birthday package: No
+
+AMBIENCE
+--------
+Atmosphere: Casual, comfortable, family-oriented
+Suitable for: Family meals, casual lunch, casual dinner, friends, students, small celebrations, small office gatherings, birthday meals
+
+FACILITIES AND POLICIES
+-----------------------
+Parking: Limited customer parking available near the restaurant
+Dedicated parking: Not guaranteed
+Wi-Fi: Free customer Wi-Fi available
+Pets: Not permitted inside the main dining area
+Service animals: Handled according to applicable requirements
+Smoking: Not permitted inside the restaurant
+Alcohol: Not served
+
+CUSTOMER SERVICE
+----------------
+Customers can contact staff for menu information, ingredient questions, reservations, takeaway, delivery, catering, billing, order issues, and feedback.
+
+ORDER ISSUES
+------------
+For a missing or incorrect order, contact the restaurant, provide order details, explain the issue, and restaurant staff will review it.
+
+CANCELLATION
+------------
+Reservation cancellation: Inform the restaurant as early as possible.
+Food order cancellation: May be possible before preparation begins.
+After preparation starts: Cancellation may not be possible.
+
+REFUNDS
+-------
+Refund requests may be considered for incorrect orders, missing items, serious quality issues, or duplicate payment.
+Customers should provide order details, payment information, and a description of the issue.
+
+MENU AVAILABILITY
+-----------------
+All menu items are subject to availability.
+Items may temporarily be unavailable because of ingredient shortage, high demand, kitchen limitations, seasonal availability, maintenance, or unexpected operational conditions.
+
+CURRENT OFFERS
+--------------
+The knowledge base does not define permanent discounts or promotional offers. Customers should contact the restaurant for current promotions.
+
+SUMMARY OF SERVICES
+-------------------
+Dine-in: Available
+Takeaway: Available
+Home delivery: Available
+Table reservations: Available
+Group dining: Available
+Selected catering: Available
+Vegetarian food: Available
+Non-vegetarian food: Available
+South Indian food: Available
+North Indian food: Available
+Indo-Chinese food: Available
+Biryani: Available
+Desserts: Available
+Beverages: Available
+Alcohol: Not served
+Smoking inside: Not permitted
+Pets inside main dining area: Not permitted
